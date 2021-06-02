@@ -10,9 +10,9 @@ clear
 echo
 sleep 1
 echo $green"×××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
-echo $purple" (+) AUTHOR       : MR SUB75 CYBER          (+)"
-echo $purple" (+) YOUTUBE      : MR SUB75 CYBER NEW      (+)"
-echo $purple" (+) TEAM         : SQUAD.TEAM.DRAGON.VIRUS (+)"
+echo $purple" (+) AUTHOR       : MR.L4M3R          (+)"
+echo $purple" (+) YOUTUBE      : MR.L4M3RXploit      (+)"
+echo $purple" (+) TEAM         : SUMBER CYBER TEAM (+)"
 echo $green"×××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
 echo $white
 echo "BERIKUT ADALAH WEBSITE YG BISA ANDA DEFACE DGN MUDAH"
